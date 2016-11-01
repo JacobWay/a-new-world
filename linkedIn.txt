@@ -1,0 +1,39 @@
+Summary
+
+How to attract the viewer? Let them once see it, having a feeling, must be this
+person that I want.
+
+What is my standing character?
+
+Passionate software programming developer with big heart to get job done, done it
+great. Guaranteed performance and successful web application project developing
+track in 17 years career as the role of chief software architect, team
+leader, and distinguished developer.
+
+What can I do?  
+
+Specialise in building responsive and elegant web application
+that be able to scale and maintain.
+
+How can I achieve it?  
+
+Develop efficiently in modern workflow. Write code in Vim/Eclipse with rich
+features plugins, version control in Git/SVN, packages download and management
+in NPM/Bower, task runner automation in Grunt/Gulp, app architecture design in
+JavaScript, HTML5, CSS3, and all kinds of frameworks and packages like
+RequireJS/Webpack, Backbone/AngularJS, Bootstrap, Jquery, Sass/Scss/Less etc,
+design in Photoshop, optimize and debug in developer tools, excellent
+server-side programming in Python, Django, SQL, NoSQL, and web server configure
+of Nginx, Apache Server.
+
+What are the skills keywords?
+
+Front end skills: HTML, CSS3, JavaScript, BackBone/AngularJS, JQuery,
+Bootstrap, NPM/Bower, Grunt/Gulp, RequireJS/Webpack, Sass/Scss/Less.
+Back end skills: Python, Django, MySQL, Nginx, Apache Server.
+Tools: Git/SVN, Vim/Eclipse IDE, Photoshop.
+
+All in all, A full stack developer with strong practical experience in software
+programming.
+
+
