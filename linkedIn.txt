@@ -7,8 +7,8 @@ What is my standing character?
 
 Passionate software programming developer with big heart to get job done, done it
 great. Guaranteed performance and successful web application project developing
-track in 17 years career as the role of chief software architect, team
-leader, and distinguished developer.
+track in 17 years career as the role of Chief Software Architect, Aeam
+Leader, and Distinguished Developer.
 
 What can I do?  
 
@@ -22,7 +22,7 @@ features plugins, version control in Git/SVN, packages download and management
 in NPM/Bower, task runner automation in Grunt/Gulp, app architecture design in
 JavaScript, HTML5, CSS3, and all kinds of frameworks and packages like
 RequireJS/Webpack, Backbone/AngularJS, Bootstrap, Jquery, Sass/Scss/Less etc,
-design in Photoshop, optimize and debug in developer tools, excellent
+design in Photoshop, optimise and debug in developer tools, excellent
 server-side programming in Python, Django, SQL, NoSQL, and web server configure
 of Nginx, Apache Server.
 
@@ -32,8 +32,47 @@ Front end skills: HTML, CSS3, JavaScript, BackBone/AngularJS, JQuery,
 Bootstrap, NPM/Bower, Grunt/Gulp, RequireJS/Webpack, Sass/Scss/Less.
 Back end skills: Python, Django, MySQL, Nginx, Apache Server.
 Tools: Git/SVN, Vim/Eclipse IDE, Photoshop.
+Familiar skills: Java, C, Assembler
 
 All in all, A full stack developer with strong practical experience in software
 programming.
 
+
+Experience
+
+May 2014 - Present
+Web App Engineer
+Self-employed, Consultant, Ethank Corp.
+
+Chief Software Architect in Ethank Corp., in the startup company, from 0
+build the KTV PaaS(Platform as a Service) Cloud Platform, Membership Management Platform, and Market
+Activity Platform.
+
+October 2011 - April 2014
+Web App Engineer
+ChinaCache
+
+Full stack Web Application Engineer worked in SSR(Scalable Service Routing)
+Group of CSP(Core System Platform) Department, a core team of ChinaCache global
+CDN(Content Delivery Network) System. Accomplished several important projects
+as the leading developer.
+
+October 2002 - December 2004
+Embedded System Engineer
+Netac
+
+Developed USB Flash Disk, consumer electronics. Hands-on experience from
+schematic capture, PCB layout design, prototype bring up and debugging,
+function verification, and collaborating with manufacturers.
+
+August 1999 - September 2002
+Senior Electrical Enginner
+Group Sense Ltd.
+
+Developed Electronics Dictionary, and PDA(Personal Digital Assistance) with
+high volume sale out. Be responsible for the thorough product cycle: product
+requirements idea input to finished product output.
+
+
+Projects
 
