@@ -10,12 +10,12 @@ great. Guaranteed performance and successful web application project developing
 track in 17 years career as the role of Chief Software Architect, Aeam
 Leader, and Distinguished Developer.
 
-What can I do?  
+What can I do?
 
 Specialise in building responsive and elegant web application
 that be able to scale and maintain.
 
-How can I achieve it?  
+How can I achieve it?
 
 Develop efficiently in modern workflow. Write code in Vim/Eclipse with rich
 features plugins, version control in Git/SVN, packages download and management
@@ -44,9 +44,9 @@ May 2014 - Present
 Web App Engineer
 Self-employed, Consultant, Ethank Corp.
 
-Chief Software Architect in Ethank Corp., in the startup company, from 0
-build the KTV PaaS(Platform as a Service) Cloud Platform, Membership Management Platform, and Market
-Activity Platform.
+Chief Software Architect in Ethank Corp., in the startup company, from 0 build
+the KTV PaaS(Platform as a Service) Cloud Platform, Membership Management
+Platform, and Market Activity Platform.
 
 October 2011 - April 2014
 Web App Engineer
@@ -76,3 +76,12 @@ requirements idea input to finished product output.
 
 Projects
 
+
+简介
+
+工作态度
+资深软件工程师，注重事情结果，在网络应用，嵌入式系统领域，超过17年研发经验。在多个公司成功主持并参与开发了多个项目。
+有良好的工作流程，高效的工作方法，优秀的专业技能。
+网络前端技能：HTML5，CSS3，Javascript，AJAX
+前端软件库及工具：Bootstrap，JQuery，Backbone，RequireJS，Webpack，Grunt
+后端技能：Python，Django，SQL，NoSQL，Nginx
