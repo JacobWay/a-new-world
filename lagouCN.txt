@@ -1,0 +1,56 @@
+结果目标
+
+技术能力
+负责重点业务的架构设计，和模块开发。（如何架构的？）
+团队合作，梳理业务需求，模块划分，完成系统设计。
+喜欢专研技术。
+拥有丰富的全栈技术，
+
+简介
+拥有17年的研发实战, 涉及Web前端，Web全栈，移动应用，嵌入式系统。
+注重工作方法，责任心强，以目标为导向去做事情。
+专业技能精湛，有良好的开发流程，和开发环境，如：HTML5, CSS3, Sass, Bootstrap, JavaScript, jQuery, AJAX, Backbone, RequireJS, Grunt, qUnit, Python, Django, SQL, Nginx, Git, VIM, Eclipse IDE, 及其他常用开发库, 了解Java, C, NodeJS, PHP, VB, Assembler。
+
+经验
+软件架构师 自就业 2015年5月－现在
+KTV管理系统云平台，有系统配置，仓库，超市，收银，财务报告等模块。
+会员管理云平台，有开通，升级，关闭，信息查询，通知发送等模块。
+市场活动营销云平台，有签到，抽奖，秒杀，刮刮乐，派对报名等模块。
+参与了团队组建，业务需求分析，系统设计，模块划分，任务分解，指导团队的角色。
+系统采用了前后端分离，并行开发。其中前端又采取了设计，内容，渲染，交互分离开发。这样提升了开发质量与速度。并且采用了响应式布局技术，兼容桌面，移动屏幕，和各种浏览器。
+
+资深软件工程师 ChinaCache 2011年10月 - 2014年4月
+全能型Web开发师，就职于ChinaCache全球CDN内容分发网络核心部门CSP（Core System Platform），核心研发组SSR（Scalable Service Routing）。作为主要开发成员，成功研发了一些重要项目。
+NOC全网监控巡视墙，在ChinaCache NOC（网络运维中心）屏幕墙上，实时展示全网设备，网络节点，网络性能 的运行状态。
+全网告警信息通知平台，包括自定义告警信息模版，通过SMS和emai通知告警信息，用户自定义管理，为外部 系统提供HTTP API发送告警通知。
+CDN雷达系统，侦查CC客户CDN服务商变化信息，扫描全网网民访问的域名的CDN信息，查找用户提交的域名CDN 信息。
+部门KPI自动化系统，调用工程师负责的各个系统，获取系统运维性能，生成KPI日报，周报，月报，和年报。
+SIS（SSR Information System），全网CDN信息查询系统，可以查询服务器状态，网络性能，频道服务质量。
+荣誉：
+全公司年度最佳开发团队。
+
+
+软件工程师 易天科技 2006年 - 2010年
+开发网站，商城，ERP系统。
+嵌入式系统工程师 朗科科技 2003 - 2004
+开发USB闪存盘。
+硬件工程师 权智集团 1999 - 2003
+涉及电子词典和PDA个人数码助理。
+
+个人项目：
+响应式布局个人网页：https://jacobway.github.io/a-new-world/
+Github地址：https://github.com/JacobWay/a-new-world
+个人简历文本网页：https://jacobway.github.io/a-new-world/onePageResumeCN.html
+纯JS游戏：https://jacobway.github.io/jumpJack/jumpJack.html
+Github地址：https://github.com/JacobWay/jumpJack
+前端开发流程模版：
+Github地址：https://github.com/JacobWay/fe_start_up
+GAE Python博客平台：
+
+兴趣爱好
+阅读，写作，舞蹈，足球，篮球，吉他
+
+语言能力
+母语是中文，英语听，说，读，写俱佳
+
+危强 — soarinblue@gmail.com — 186-0018-1779
