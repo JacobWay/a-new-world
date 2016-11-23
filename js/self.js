@@ -19,6 +19,7 @@ function toggleFloat(){
         }
             );
 }
+
 $(document).ready(function(){
     toggleMenu();
     toggleFloat();
