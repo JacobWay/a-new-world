@@ -1,4 +1,18 @@
 (function($){
+    function sayHiInConsole(){
+        console.log("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
+        console.log("Welcom aboard if you open the developer console!");
+        console.log("你好，朋友，来自console的招呼");
+        console.log("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+    }
+
+    function addFooterText(){
+        var text = $(".addFooterText").text();
+        var year = new Date().getFullYear();
+        text = "&nbsp;&nbsp;" + year + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + text;
+        $(".addFooterText").html(text);
+    }
+
     function toggleMenu(){
         $("#logo").hover(
             function(){
@@ -21,16 +35,10 @@
                 );
     }
 
-    function addFooterText(){
-        var text = $(".addFooterText").text();
-        var year = new Date().getFullYear();
-        text = "&nbsp;&nbsp;" + year + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + text;
-        $(".addFooterText").html(text);
-    }
-
     $(document).ready(function(){
+        sayHiInConsole();
+        addFooterText();
         toggleMenu();
         toggleFloat();
-        addFooterText();
     });
 })(window.jQuery)
