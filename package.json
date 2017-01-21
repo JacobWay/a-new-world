@@ -4,7 +4,9 @@
   "description": "resume web page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server --hot --inline"
   },
   "repository": {
     "type": "git",
@@ -23,9 +25,13 @@
   "homepage": "https://github.com/JacobWay/headforward#readme",
   "dependencies": {
     "jimp": "^0.2.27",
+    "jquery": "^3.1.1",
     "responsive-loader": "^0.7.0"
   },
   "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-preset-env": "^1.1.8",
+    "babel-preset-react": "^6.22.0",
     "eslint": "^3.14.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-promise": "^3.4.0",
