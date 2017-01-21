@@ -24,5 +24,13 @@
   "dependencies": {
     "jimp": "^0.2.27",
     "responsive-loader": "^0.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "readdirp": "^2.1.0",
+    "webpack": "^1.14.0"
   }
 }
