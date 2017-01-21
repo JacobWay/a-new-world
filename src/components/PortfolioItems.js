@@ -1,8 +1,6 @@
 import React from "react";
 
 function PortfolioItems(props) {
-    const imageBaseUrl = "/a-new-world/assets/images/";
-    const sparrowImageUrl = imageBaseUrl + "doodles/sparrow.jpg";
     const sparrow= require("../../assets/images/doodles/sparrow.jpg");
     const saucerAndCup = require("../../assets/images/doodles/saucerAndCup.jpg");
     const oldMan = require("../../assets/images/doodles/oldMan.jpg");
