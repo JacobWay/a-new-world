@@ -1,7 +1,7 @@
 root = true
 
 [*]
-indent_style = tab
+indent_style = space
 indent_size = 4
 charset = utf-8
 trim_trailing_whitespace = true
@@ -18,3 +18,8 @@ indent_size = 2
 
 [*.md]
 trim_trailing_whitespace = false
+
+[**.jsx]
+e4x = true
+indent_style = space
+indent_size = 4
