@@ -3,12 +3,36 @@ import React from "react";
 function PortfolioItems(props) {
     const imageBaseUrl = "/a-new-world/assets/images/";
     const sparrowImageUrl = imageBaseUrl + "doodles/sparrow.jpg";
-    const sparrowImage = require("../../assets/images/doodles/sparrow.jpg");
-    console.log("sparrowImage ... ", sparrowImage);
-        //<img srcSet={responsiveImage.srcSet} src={responsiveImage.src} />
+    const sparrow= require("../../assets/images/doodles/sparrow.jpg");
+    const saucerAndCup = require("../../assets/images/doodles/saucerAndCup.jpg");
+    const oldMan = require("../../assets/images/doodles/oldMan.jpg");
+    const someone = require("../../assets/images/doodles/someone.jpg");
+    const roomAlongRiver = require("../../assets/images/doodles/roomAlongRiver.jpg");
+    const missRabbit = require("../../assets/images/doodles/missRabbit.jpg");
     let data = [{
-        obj: sparrowImage,
-        category: '动物'
+        obj: sparrow,
+        category: '动物',
+        num: 3
+    },{
+        obj: saucerAndCup,
+        category: '静物',
+        num: 2
+    },{
+        obj: oldMan,
+        category: '人物',
+        num: 1
+    },{
+        obj: someone,
+        category: '人物',
+        num: 1
+    },{
+        obj: roomAlongRiver,
+        category: '静物',
+        num: 2
+    },{
+        obj: missRabbit,
+        category: '动物',
+        num: 3
     }];
 
     const element = ( 
@@ -16,7 +40,7 @@ function PortfolioItems(props) {
         {
             data.map((item, index) => {
                 return (
-                    <li class={ 'item term-' + (index + 1) } key={"image_" + index}>
+                    <li class={ 'item term-' + (item.num) } key={"image_" + index}>
                         <div class="portfolio-item">
                             <div class="portfolio-item-preview">
                                 <img src={ item.obj.src } srcSet={ item.obj.srcSet } alt="portfolio" />
