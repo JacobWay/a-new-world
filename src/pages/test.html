@@ -1,0 +1,21 @@
+<li class={ 'item term-' + (index + 1) }>
+    <div class="portfolio-item">
+        <div class="portfolio-item-preview">
+            <img src={ item.src } srcSet={ item.srcSet } alt="portfolio" />
+            <div class="portfolio-item-overlay">
+                <div class="portfolio-item-overlay-actions">
+                    <a class="magnificPopup-gallery portfolio-item-zoom" href={ sparrowImageUrl }> +
+</a>
+                    <a class="ajax-popup-link portfolio-item-link" href="project.html">>
+</a>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-item-description">
+            <h3> 图片
+            </h3>
+            <p> { item.category }
+            </p>
+        </div>
+    </div>
+</li>

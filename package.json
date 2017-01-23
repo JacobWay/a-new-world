@@ -1,0 +1,49 @@
+{
+  "name": "personal_info_page",
+  "version": "1.0.0",
+  "description": "resume web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf ./dist/* && NODE_ENV=production webpack",
+    "dev": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobWay/headforward.git"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": "Jacob Way",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobWay/headforward/issues"
+  },
+  "homepage": "https://github.com/JacobWay/headforward#readme",
+  "dependencies": {
+    "jimp": "^0.2.27",
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "responsive-loader": "^0.7.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-preset-env": "^1.1.8",
+    "babel-preset-react": "^6.22.0",
+    "eslint": "^3.14.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-react": "^6.9.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "jimp": "^0.2.27",
+    "readdirp": "^2.1.0",
+    "responsive-loader": "^0.7.0",
+    "webpack": "^1.14.0"
+  }
+}
