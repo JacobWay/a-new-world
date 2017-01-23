@@ -55,12 +55,12 @@
 	
 	.mfp-ajax-holder .mfp-arrow-left {
 		left: 30px;
-		background: #252525 url(../images/prev.png) no-repeat center center; 
+		background: #252525 url(../../assets/images/prev.png) no-repeat center center; 
 	}
 	
 	.mfp-ajax-holder .mfp-arrow-right {
 		right: 50px;
-		background: #252525 url(../images/next.png) no-repeat center center; 
+		background: #252525 url(../../assets/images/next.png) no-repeat center center; 
 	}
 	
 	.mfp-ajax-holder .mfp-arrow-left:before,
