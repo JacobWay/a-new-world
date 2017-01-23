@@ -1,5 +1,5 @@
 const path = require("path");
-const debug = process.env.NODE_ENV !== "production";
+var debug = process.env.NODE_ENV !== "production";
 const webpack = require("webpack");
 
 /*
