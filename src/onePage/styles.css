@@ -118,7 +118,7 @@ button {
 
 body {
     font-family: "Lucida Grande", "Lucida Sans Unicode", "STHeiti", Helvetica, Arial, Verdana, sans-serif, Georgia,"Times New Roman",Times,serif;
-    font-size: 62.5%;
+    font-size: 52%;
     line-height: 1em
 }
 
@@ -433,7 +433,7 @@ ul#options li#linkedin a:hover {
 
 div.title-wrapper {
     float: left;
-    width: 450px;
+    width: 30%;
 }
 
 div.adr {
@@ -520,6 +520,7 @@ ol.vcalendar li {
 
 .endorsements {
     position: absolute;
+    float: left;
     left: 0;
     top: 1em;}
 
@@ -529,7 +530,7 @@ ol.vcalendar li {
 aside.endorsement {
     margin: 0;
     width: 220px;
-    position: absolute;
+    /*position: absolute;*/
     left: 0
 }
 
@@ -544,19 +545,23 @@ aside cite {
 }
 
 aside#mole {
-    top: 152px;}
+    /*top: 152px;*/
+}
 
 aside#wil {
-    top: 282px;}
+    /*top: 282px;*/
+}
 
 aside#side-objective {
-    top: 10px;}
+    /*top: 10px;*/
+}
 
 aside#resig {
-    top: 10px;}
+    /*top: 10px;*/
+}
 
 aside#marshall {
-    top: 368px
+    /*top: 368px*/
 }
 
 .email i,.email b {
@@ -651,7 +656,7 @@ ol.expand {
 }
 
 .h-edu {
-    top: 390px;
+    /*top: 390px;*/
     position: relative;
 }
 .expand-content .expand > li {
@@ -660,15 +665,15 @@ ol.expand {
 }
 
 aside#online-edu {
-top: 422px;
+/*top: 422px;*/
 }
 
 aside#micro-edu {
-top: 589px;
+/*top: 650px;*/
 }
 
 aside#east-edu {
-top: 815px;
+/*top: 940px;*/
 }
 
 .oneline {
