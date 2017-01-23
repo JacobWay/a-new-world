@@ -30,7 +30,8 @@ module.exports = {
     devtool: debug ? "source-map" : "",
     entry: {
         //t: "./src/scripts/t.js"
-        main: "./src/scripts/main.js"
+        main: "./src/scripts/main.js",
+        main_EN: "./src/scripts/main_EN.js"
     },
     output: {
         filename: "scripts/[name].bundle.js",
